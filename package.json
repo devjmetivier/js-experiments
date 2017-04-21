@@ -1,0 +1,27 @@
+{
+  "name": "js-experiments",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dmetivier/js-experiments.git"
+  },
+  "author": "Devin Metivier",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dmetivier/js-experiments/issues"
+  },
+  "homepage": "https://github.com/dmetivier/js-experiments#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.1",
+    "gulp-jshint": "^2.0.4",
+    "gulp-sass": "^3.1.0",
+    "jshint": "^2.9.4",
+    "jshint-stylish": "^2.2.1"
+  }
+}
